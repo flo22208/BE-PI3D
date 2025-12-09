@@ -1,0 +1,5 @@
+# requirement.txt - dependencies for your script
+numpy
+open3d
+fbxloader  
+## icp-py310
