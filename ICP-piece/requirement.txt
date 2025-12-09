@@ -2,4 +2,4 @@
 numpy
 open3d
 fbxloader  
-## icp-py310
+## conda create -n icp-py310 python=3.10 -y
